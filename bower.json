@@ -12,7 +12,7 @@
 		"html"
 	],
 	"homepage": "http://www.tinymce.com",
-	"main": "tinymce.min.js",
+	"main": "tinymce.full.min.js",
 	"ignore": [
 		"readme.md",
 		"composer.json",
